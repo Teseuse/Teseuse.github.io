@@ -196,7 +196,7 @@ p{
 #introduction{
 	margin: 0;
   	padding: 0;
-  	background: rgba(0, 0, 48, 1);
+	background-color:rgba(0,5,36,1)
 }
 .clock canvas{
 	position: relative;
@@ -205,7 +205,7 @@ p{
 	left: -webkit-calc(50% - 300px);
 	left: calc(50% - 300px);
 	width: 600px;
-	height: 600px;
+	height: 67vh;
   }
   
 .clock{
@@ -217,6 +217,7 @@ p{
 	font-family: Arial;
 	display: flex;
 	flex-direction: column;
+	justify-content: center;
 	align-items: center;
 	height: auto;
 	padding:0;
@@ -229,7 +230,7 @@ p{
 	transform: translate(-50%, 0%);
 }
 .clock p{
-	color: #fff;
+	color: #ffffff;
 } 
 /*--cards--*/
 /*------*/

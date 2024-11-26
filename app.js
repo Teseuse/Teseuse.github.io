@@ -11,7 +11,7 @@ circular.addEventListener('click', () => {
 document.addEventListener('scroll', () => {
 	var scroll_position = window.scrollY;
 	if (scroll_position > 250) {
-		header.style.backgroundColor = '#2c2c54';
+		header.style.backgroundColor = '#010832';//#2c2c54
 	} else {
 		header.style.backgroundColor = 'transparent';
 	}
@@ -95,7 +95,7 @@ function arc(){
     ctx.stroke();
     
     ctx.save();
-    ctx.fillStyle = "rgba(0, 0, 48, 1)";
+    ctx.fillStyle = "rgba(0, 0, 0, 1)";//(0,0,48,1)
     ctx.translate(300, 300);
     ctx.rotate(this.rot);
     ctx.font="bold 14px Arial";
@@ -150,13 +150,13 @@ function arc(){
 }
 
 function reset(){
-  ctx.fillStyle = "rgba(0, 0, 48, 1)";
+  ctx.fillStyle = "rgba(0,5,36,1)";//0, 0, 48, 1
   ctx.fillRect(0,0,w,h);
 }
 
 function draw(){
   reset();
-  ctx.fillStyle = "rgba(255,255,255,0.8)";
+  ctx.fillStyle = "rgba(255,255,255,1)";//255,255,255,0.8
   ctx.font = "12px Arial"
   ctx.fillText("seconds", 250, 27);
   ctx.fillText("minutes", 252, 63);
