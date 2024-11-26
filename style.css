@@ -193,17 +193,48 @@ p{
 	background-image: linear-gradient(to right bottom, #000f55, #2e397d, #5666a4, #8196cc, #b1c8f3);
 	background-image: linear-gradient(to left top, #57628a, #917999, #bd95a5, #ddb8b6, #f4ddd0);
 }*/
-#introduction {
-    position: relative;
-    width: 100%;
-    height: 100vh; /*确保 #introduction 占满整个视口高度*/
-    display: flex;
-    align-items: center;  /*垂直居中*/
-    justify-content: center;  /*水平居中*/
-    overflow: hidden; /*防止粒子溢出*/
+#introduction{
+	margin: 0;
+  	padding: 0;
+  	background: rgba(0, 0, 48, 1);
 }
-
-#introduction .container {
+.clock canvas{
+	position: relative;
+	top: -webkit-calc(50% - 250px);
+	top: calc(50% - 250px);
+	left: -webkit-calc(50% - 300px);
+	left: calc(50% - 300px);
+	width: 600px;
+	height: 600px;
+  }
+  
+.clock{
+	position: relative;
+	height:100%;
+	width: 100%;
+	color: #fff;
+	font-size: 35px;
+	font-family: Arial;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: auto;
+	padding:0;
+}
+.clock .quote{
+	position: relative;
+	width: 80%;
+	left:40%;
+	font-size:50%;
+	transform: translate(-50%, 0%);
+}
+.clock p{
+	color: #fff;
+} 
+/*--cards--*/
+/*------*/
+/*------*/
+#noteCards .container {
     position: relative; /*为了确保粒子容器可以绝对定位*/
     width: 100%;
     height: 100%;
@@ -220,41 +251,14 @@ p{
     width: 100%;
     height: 100%;
     overflow: hidden; /*确保粒子不会超出容器*/
+	z-index:-1;
 }
-/*--welcome--*/
-.title{
-	font-weight: 700;
-	color: transparent;
-	font-size:100px;
-	background: url("https://phandroid.s3.amazonaws.com/wp-content/uploads/2014/05/rainbow-nebula.jpg") repeat;
-	background-position: 40% 50%;
-	background-clip: text;
-	position:relative;
-	text-align:center;
-	line-height:90px;
-	letter-spacing: -8px;
-	z-index: 1000;
-}
-.subtitle{
-	display: block;
-	text-align: center;
-	text-transform: uppercase;
-	padding-top:10px;
-	z-index: 1000;
-}
-.clickToCards{
-	color:#1b71cd;
-	font-weight:600;
-	border:0.5px solid #477ff8;
-	border-radius:3.5px;
-	padding:3px 6px;
-}
-/*--cards--*/
-/*------*/
-/*------*/
+
 #noteCards .noteCards{
+	position: relative;
 	display: flex;
 	width: 100%;
+	height: 100vh;
 	flex-direction: column;
 	text-align: center;
 	max-width: 1500px;
@@ -262,6 +266,9 @@ p{
 	padding: 100px 0;
 	gap: 20px;
 	padding: 20px;
+	overflow: hidden;
+	align-items: center;
+	justify-content: center;
 }
 #noteCards .noteCards .cards-top{
 	max-width: 500px;
