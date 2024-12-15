@@ -3,20 +3,44 @@
     <id>https://teseuse.github.io</id>
     <title>myBlog</title>
     <link href="https://teseuse.github.io" />
-    <updated>2024-12-15T05:36:59.812Z</updated>
+    <updated>2024-12-15T07:00:10.884Z</updated>
     <entry>
-        <id>https://teseuse.github.io/2024/12/15/test2/</id>
-        <title>test2</title>
-        <link rel="alternate" href="https://teseuse.github.io/2024/12/15/test2/"/>
-        <content type="html">&lt;p&gt;This blog is for test too.&lt;/p&gt;
+        <id>https://teseuse.github.io/2024/12/15/Startup/test4/</id>
+        <title>学习商科</title>
+        <link rel="alternate" href="https://teseuse.github.io/2024/12/15/Startup/test4/"/>
+        <content type="html">&lt;p&gt;Coursera&lt;/p&gt;
+</content>
+        <updated>2024-12-15T07:00:10.884Z</updated>
+    </entry>
+    <entry>
+        <id>https://teseuse.github.io/2024/12/15/Startup/test1/</id>
+        <title>YC</title>
+        <link rel="alternate" href="https://teseuse.github.io/2024/12/15/Startup/test1/"/>
+        <content type="html">&lt;p&gt;YC给你发来了催作业文件&lt;/p&gt;
+</content>
+        <updated>2024-12-15T06:55:38.150Z</updated>
+    </entry>
+    <entry>
+        <id>https://teseuse.github.io/2024/12/15/Reading/test3/</id>
+        <title>《纳瓦尔宝典》</title>
+        <link rel="alternate" href="https://teseuse.github.io/2024/12/15/Reading/test3/"/>
+        <content type="html">&lt;p&gt;notes在建&lt;/p&gt;
+</content>
+        <updated>2024-12-15T06:13:45.470Z</updated>
+    </entry>
+    <entry>
+        <id>https://teseuse.github.io/2024/12/15/Reading/test2/</id>
+        <title>《清晰思考》</title>
+        <link rel="alternate" href="https://teseuse.github.io/2024/12/15/Reading/test2/"/>
+        <content type="html">&lt;p&gt;notes在建&lt;/p&gt;
 </content>
         <updated>2024-12-15T05:36:59.812Z</updated>
     </entry>
     <entry>
         <id>https://teseuse.github.io/2024/12/15/test/</id>
-        <title>test</title>
+        <title>公告</title>
         <link rel="alternate" href="https://teseuse.github.io/2024/12/15/test/"/>
-        <content type="html">&lt;p&gt;This blog is for test.&lt;/p&gt;
+        <content type="html">&lt;p&gt;blog在建&lt;/p&gt;
 </content>
         <updated>2024-12-15T02:01:53.890Z</updated>
     </entry>

@@ -1,23 +1,47 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "myBlog",
-    "description": "",
+    "description": "just a blog",
     "home_page_url": "https://teseuse.github.io",
     "items": [
         {
-            "id": "https://teseuse.github.io/2024/12/15/test2/",
-            "url": "https://teseuse.github.io/2024/12/15/test2/",
-            "title": "test2",
+            "id": "https://teseuse.github.io/2024/12/15/Startup/test4/",
+            "url": "https://teseuse.github.io/2024/12/15/Startup/test4/",
+            "title": "学习商科",
+            "date_published": "2024-12-15T07:00:10.884Z",
+            "content_html": "<p>Coursera</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://teseuse.github.io/2024/12/15/Startup/test1/",
+            "url": "https://teseuse.github.io/2024/12/15/Startup/test1/",
+            "title": "YC",
+            "date_published": "2024-12-15T06:55:38.150Z",
+            "content_html": "<p>YC给你发来了催作业文件</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://teseuse.github.io/2024/12/15/Reading/test3/",
+            "url": "https://teseuse.github.io/2024/12/15/Reading/test3/",
+            "title": "《纳瓦尔宝典》",
+            "date_published": "2024-12-15T06:13:45.470Z",
+            "content_html": "<p>notes在建</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://teseuse.github.io/2024/12/15/Reading/test2/",
+            "url": "https://teseuse.github.io/2024/12/15/Reading/test2/",
+            "title": "《清晰思考》",
             "date_published": "2024-12-15T05:36:59.812Z",
-            "content_html": "<p>This blog is for test too.</p>\n",
+            "content_html": "<p>notes在建</p>\n",
             "tags": []
         },
         {
             "id": "https://teseuse.github.io/2024/12/15/test/",
             "url": "https://teseuse.github.io/2024/12/15/test/",
-            "title": "test",
+            "title": "公告",
             "date_published": "2024-12-15T02:01:53.890Z",
-            "content_html": "<p>This blog is for test.</p>\n",
+            "content_html": "<p>blog在建</p>\n",
             "tags": []
         }
     ]

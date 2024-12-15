@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>myBlog • Posts by &#34;作为创始人&#34; category</title>
+        <link>https://teseuse.github.io</link>
+        <description>just a blog</description>
+        <language>zh</language>
+        <pubDate>Sun, 15 Dec 2024 15:00:10 +0800</pubDate>
+        <lastBuildDate>Sun, 15 Dec 2024 15:00:10 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://teseuse.github.io/2024/12/15/Startup/test4/</guid>
+            <title>学习商科</title>
+            <link>https://teseuse.github.io/2024/12/15/Startup/test4/</link>
+            <pubDate>Sun, 15 Dec 2024 15:00:10 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Coursera&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://teseuse.github.io/2024/12/15/Startup/test1/</guid>
+            <title>YC</title>
+            <link>https://teseuse.github.io/2024/12/15/Startup/test1/</link>
+            <pubDate>Sun, 15 Dec 2024 14:55:38 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;YC给你发来了催作业文件&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
