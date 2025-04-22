@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "myBlog • All posts by \"创业\" category",
+    "description": "just a blog",
+    "home_page_url": "https://teseuse.github.io",
+    "items": [
+        {
+            "id": "https://teseuse.github.io/2025/04/22/Startup/plan/",
+            "url": "https://teseuse.github.io/2025/04/22/Startup/plan/",
+            "title": "未开始",
+            "date_published": "2025-04-22T11:54:26.907Z",
+            "content_html": "<p>孵化器: YC<br>门槛: TOEFL,next.js,基本经济学,YC全部创业课程,一些创业有关的书。<br>时间安排: 大二暑假开始YC组队。 </p>\n",
+            "tags": []
+        }
+    ]
+}

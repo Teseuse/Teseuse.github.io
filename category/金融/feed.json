@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "myBlog • All posts by \"金融\" category",
+    "description": "just a blog",
+    "home_page_url": "https://teseuse.github.io",
+    "items": [
+        {
+            "id": "https://teseuse.github.io/2025/04/22/Finance/resource/",
+            "url": "https://teseuse.github.io/2025/04/22/Finance/resource/",
+            "title": "学习资源",
+            "date_published": "2025-04-22T11:51:46.966Z",
+            "content_html": "<p>国内教材基本不能看。<br><br>阿西莫格鲁的《微&#x2F;宏观经济学》通俗易懂。<br></p>\n",
+            "tags": []
+        }
+    ]
+}
