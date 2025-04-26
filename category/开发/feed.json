@@ -1,15 +1,15 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "myBlog • All posts by \"开发\" category",
-    "description": "just a blog",
+    "description": "We don't ever surrender.",
     "home_page_url": "https://teseuse.github.io",
     "items": [
         {
             "id": "https://teseuse.github.io/2025/04/22/Dev/log/",
             "url": "https://teseuse.github.io/2025/04/22/Dev/log/",
-            "title": "日志",
+            "title": "开发日志",
             "date_published": "2025-04-22T11:30:24.587Z",
-            "content_html": "<h1 id=\"大一\"><a href=\"#大一\" class=\"headerlink\" title=\"大一:\"></a>大一:</h1><p>C&#x2F;C++(学校课程),算法与数据结构(忘得一干二净)<br></p>\n<h1 id=\"大二上\"><a href=\"#大二上\" class=\"headerlink\" title=\"大二上:\"></a>大二上:</h1><p>html,css,js,Python,Go,字节青训营Go后端(凑个热闹),Hexo<br></p>\n<h1 id=\"大二下\"><a href=\"#大二下\" class=\"headerlink\" title=\"大二下:\"></a>大二下:</h1><p>Linux,Docker,Django(没学完)(面向Terminal开发)<br><br>Next.js(React,Typescript),webpack…(大创NextChat,cursor)(wsl:yarn dev&#x2F;build &#x3D;&gt;ECS)<br><br>Latex(学校小组作业,因为网上没找到现成的,所以写了个中文期刊模板)<br><br>MatLab(学校课程,硬件库无法python替代)<br><br>(没学精,正在学金融(大创糊弄完后出现报复性休息摆烂问题)(快到考试季了),然后再学django&#x3D;&gt;next.js)<br></p>\n",
+            "content_html": "<h1 id=\"大一\"><a href=\"#大一\" class=\"headerlink\" title=\"大一:\"></a>大一:</h1><p>C&#x2F;C++,算法与数据结构(忘得一干二净)</p>\n<h1 id=\"大二上\"><a href=\"#大二上\" class=\"headerlink\" title=\"大二上:\"></a>大二上:</h1><p>html,css,js,Python,Go,字节青训营后端(凑个热闹),MCM</p>\n<h1 id=\"大二下\"><a href=\"#大二下\" class=\"headerlink\" title=\"大二下:\"></a>大二下:</h1><p>Linux,Docker,Django(没学完)<br>Next.js(React,Typescript),webpack…(大创NextChat,cursor)(wsl:yarn dev&#x2F;build &#x3D;&gt;ECS)</p>\n",
             "tags": []
         }
     ]

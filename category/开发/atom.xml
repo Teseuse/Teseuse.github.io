@@ -6,11 +6,11 @@
     <updated>2025-04-22T11:30:24.587Z</updated>
     <entry>
         <id>https://teseuse.github.io/2025/04/22/Dev/log/</id>
-        <title>日志</title>
+        <title>开发日志</title>
         <link rel="alternate" href="https://teseuse.github.io/2025/04/22/Dev/log/"/>
-        <content type="html">&lt;h1 id=&#34;大一&#34;&gt;&lt;a href=&#34;#大一&#34; class=&#34;headerlink&#34; title=&#34;大一:&#34;&gt;&lt;/a&gt;大一:&lt;/h1&gt;&lt;p&gt;C&amp;#x2F;C++(学校课程),算法与数据结构(忘得一干二净)&lt;br&gt;&lt;/p&gt;
-&lt;h1 id=&#34;大二上&#34;&gt;&lt;a href=&#34;#大二上&#34; class=&#34;headerlink&#34; title=&#34;大二上:&#34;&gt;&lt;/a&gt;大二上:&lt;/h1&gt;&lt;p&gt;html,css,js,Python,Go,字节青训营Go后端(凑个热闹),Hexo&lt;br&gt;&lt;/p&gt;
-&lt;h1 id=&#34;大二下&#34;&gt;&lt;a href=&#34;#大二下&#34; class=&#34;headerlink&#34; title=&#34;大二下:&#34;&gt;&lt;/a&gt;大二下:&lt;/h1&gt;&lt;p&gt;Linux,Docker,Django(没学完)(面向Terminal开发)&lt;br&gt;&lt;br&gt;Next.js(React,Typescript),webpack…(大创NextChat,cursor)(wsl:yarn dev&amp;#x2F;build &amp;#x3D;&amp;gt;ECS)&lt;br&gt;&lt;br&gt;Latex(学校小组作业,因为网上没找到现成的,所以写了个中文期刊模板)&lt;br&gt;&lt;br&gt;MatLab(学校课程,硬件库无法python替代)&lt;br&gt;&lt;br&gt;(没学精,正在学金融(大创糊弄完后出现报复性休息摆烂问题)(快到考试季了),然后再学django&amp;#x3D;&amp;gt;next.js)&lt;br&gt;&lt;/p&gt;
+        <content type="html">&lt;h1 id=&#34;大一&#34;&gt;&lt;a href=&#34;#大一&#34; class=&#34;headerlink&#34; title=&#34;大一:&#34;&gt;&lt;/a&gt;大一:&lt;/h1&gt;&lt;p&gt;C&amp;#x2F;C++,算法与数据结构(忘得一干二净)&lt;/p&gt;
+&lt;h1 id=&#34;大二上&#34;&gt;&lt;a href=&#34;#大二上&#34; class=&#34;headerlink&#34; title=&#34;大二上:&#34;&gt;&lt;/a&gt;大二上:&lt;/h1&gt;&lt;p&gt;html,css,js,Python,Go,字节青训营后端(凑个热闹),MCM&lt;/p&gt;
+&lt;h1 id=&#34;大二下&#34;&gt;&lt;a href=&#34;#大二下&#34; class=&#34;headerlink&#34; title=&#34;大二下:&#34;&gt;&lt;/a&gt;大二下:&lt;/h1&gt;&lt;p&gt;Linux,Docker,Django(没学完)&lt;br&gt;Next.js(React,Typescript),webpack…(大创NextChat,cursor)(wsl:yarn dev&amp;#x2F;build &amp;#x3D;&amp;gt;ECS)&lt;/p&gt;
 </content>
         <updated>2025-04-22T11:30:24.587Z</updated>
     </entry>
